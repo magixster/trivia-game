@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed HERE: https://github.com/magixster/trivia-game
+
 ## CSS Framework used
 
 ### `Tailwind css`
